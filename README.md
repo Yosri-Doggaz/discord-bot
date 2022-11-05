@@ -1,4 +1,6 @@
 # discord-bot
+LINK : https://replit.com/@funfun6/discord-Bot#main.py
+
 simple discord bot
 
 play music :
